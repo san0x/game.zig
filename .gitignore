@@ -1,4 +1,4 @@
 .zig-cache
 example/
-.idea/*
-zig-out/*
+.idea/
+zig-out/
